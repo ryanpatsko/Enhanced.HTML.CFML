@@ -27,7 +27,7 @@ Siddley can be contacted at <https://github.com/Siddley/Enhanced.HTML.CFML>
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>#002b36</string><!-- base03 -->
+					<string>#000000</string><!-- base03 -->
 					<key>caret</key>
 					<string>#93a1a1</string><!-- base1 -->
 					<key>foreground</key>
